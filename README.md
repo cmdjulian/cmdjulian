@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://github-readme-stats.vercel.app/api?username=cmdjulian&count_private=true&include_all_commits=true&theme=react&show_icons=true)
 
 <!--
 **cmdjulian/cmdjulian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
