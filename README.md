@@ -1,3 +1,6 @@
+<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" width="100%">
+
 ![](https://github-readme-stats.vercel.app/api?username=cmdjulian&count_private=true&include_all_commits=true&theme=react&show_icons=true)
 
 <!--
