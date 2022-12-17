@@ -1,5 +1,3 @@
-![](https://github-readme-stats.vercel.app/api?username=cmdjulian&count_private=true&include_all_commits=true&theme=react&show_icons=true)
-
 <!--
 **cmdjulian/cmdjulian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://github-readme-stats.vercel.app/api?username=cmdjulian&count_private=true&include_all_commits=true&theme=react&show_icons=true)
 
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" width="100%">
+![github contribution grid snake animation](https://raw.githubusercontent.com/cmdjulian/cmdjulian/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/cmdjulian/cmdjulian/output/github-contribution-grid-snake.svg#gh-light-mode-only)
