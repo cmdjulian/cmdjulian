@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=cmdjulian&count_private=true&include_all_commits=true&theme=react&show_icons=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cmdjulian&layout=compact&show_icons=true&theme=react)
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=cmdjulian&count_private=true&include_all_commits=true&theme=react&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmdjulian&layout=compact&show_icons=true&theme=react" /> 
+</p>
 
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-![github contribution grid snake animation](https://raw.githubusercontent.com/cmdjulian/cmdjulian/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/cmdjulian/cmdjulian/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/ISaneI/ISaneI/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/ISaneI/ISaneI/output/github-contribution-grid-snake.svg#gh-light-mode-only)
