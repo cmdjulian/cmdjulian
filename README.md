@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 </p>
 
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-![github contribution grid snake animation](https://raw.githubusercontent.com/ISaneI/ISaneI/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/ISaneI/ISaneI/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/cmdjulian/cmdjulian/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/cmdjulian/cmdjulian/output/github-contribution-grid-snake.svg#gh-light-mode-only)
